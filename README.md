@@ -1,4 +1,6 @@
-### Garoto de Programa 🗿
+### Programador e Desenvolvedor de jogos
+
+Opa!, sou o Rickk, tenho 17 anos e estou no 3 ano do ensino médio, essa página no Git serve como um portfolio dos meus trabalhos, posto alguns jogos que desenvolvi em cursos ou sozinho mesmo, espero que gostem (:
 
 <div align="center">
   <a href="https://github.com/rickkcastro">
