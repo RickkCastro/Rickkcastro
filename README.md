@@ -1,15 +1,13 @@
-<h2>Oiii! Eu sou a Giovanna Neves</h2>
+<h2>Opa, eu sou o Henrique Castro</h2>
 
 
-- 📘 Atualmente eu curso o segundo ano do ensino médio com técnico em desenvolvimento de sistemas
-- 🌱 Estou aprendendo JavaScript
-
-#
+- 📘 Técnico em Desenvolvimento de Sistemas pela Etec Taboão da Serra
+- 🪐 Experiente em React Native, JavaScript, React.js e C#
 
 <div>
-  <a href="https://github.com/GigicaNves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GigicaNves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GigicaNves&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/Rickkcastro">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rickkcastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickkcastro&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
