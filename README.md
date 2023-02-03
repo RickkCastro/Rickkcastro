@@ -23,7 +23,7 @@
   
 #
 
-<div> <br>
+<div>
   <h3>Minhas redes</h3>
   <a href="https://instagram.com/_rickkcastro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rickkcastro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
