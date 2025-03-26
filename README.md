@@ -16,7 +16,7 @@ Corre Etequiano! – Jogo mobile estilo Infinite Runner, criado em Unity3D e C#.
 
 🔗 Vamos conectar?
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/rickkcastro/)
 
 📩 heinrickoficial25@gmail.com
 
