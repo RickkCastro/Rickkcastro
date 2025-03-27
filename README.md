@@ -12,13 +12,7 @@ Mony Pet – Aplicativo para monitoramento de pets, desenvolvido com React Nativ
 
 Corre Etequiano! – Jogo mobile estilo Infinite Runner, criado em Unity3D e C#.
 
-📚 Sou formado em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software (FIAP). Além disso, possuo certificações em React, Node.js e OutSystems.
-
-🔗 Vamos conectar?
-
-💼 [LinkedIn](https://www.linkedin.com/in/rickkcastro/)
-
-📩 heinrickoficial25@gmail.com
+📚 Sou técnico em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software (FIAP).
 
 #
 
