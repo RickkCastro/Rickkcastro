@@ -4,14 +4,6 @@ Desenvolvedor Front-end | React.js | Node.js
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software, sou um desenvolvedor especializado em Front-end, com experiência em React.js, Next.js e Node.js. Meu foco é criar interfaces modernas, performáticas e escaláveis, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-📌 No meu GitHub, você encontrará projetos que refletem minha jornada no desenvolvimento de software, como:
-
-Athena Analysis – Micro-SaaS que usa IA (Gemini API) para analisar e aprimorar currículos.
-
-Mony Pet – Aplicativo para monitoramento de pets, desenvolvido com React Native.
-
-Corre Etequiano! – Jogo mobile estilo Infinite Runner, criado em Unity3D e C#.
-
 📚 Sou técnico em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software (FIAP).
 
 #
